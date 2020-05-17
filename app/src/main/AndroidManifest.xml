@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.londonappbrewery.iampoor">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.londonappbrewery.iampoor"
+    tools:ignore="ExtraText">
+
 
     <application
         android:allowBackup="true"
